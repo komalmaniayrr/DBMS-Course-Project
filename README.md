@@ -1,5 +1,10 @@
 # RailSync — Railway Ticket Reservation & Journey Management System
 
+NAME- Komal Maniyar
+ROLL NUMBER- 25WU0102127
+PROJECT TITLE- Railway Ticket Reservation & Journey Management System
+
+
 This version connects the React/Vite frontend to a real MySQL database through an Express backend.
 
 ## Prerequisites
