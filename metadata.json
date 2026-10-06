@@ -1,0 +1,6 @@
+{
+  "name": "RailSync - Railway Ticket Reservation & Journey Management System",
+  "description": "Comprehensive Railway Ticket Reservation and Journey Management System featuring real-time seat availability, journey booking flow, booking history tracking, and interactive MySQL DBMS Presentation-III live record management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
